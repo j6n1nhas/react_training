@@ -1,0 +1,27 @@
+.app {
+    width: 80%;
+    margin: 0 10%;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.botoes {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    margin: 50px 20%;
+}
+
+.feedback, .estatistica {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    margin: 50px 20%;
+}
+
+.frases {
+    text-align: center;
+    margin-top: 50px;
+}
